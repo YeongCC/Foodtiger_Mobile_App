@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Footdtiger</string>
+    <string name="category">Category</string>
+    <string name="phone">Phone Number</string>
+    <string name="adress">Adress</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="loginhere">Aready have an account ? <u>Login</u></string>
+    <string name="signuphere">Create a new account? <u>SignUp</u></string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="password2">Repeat Password</string>
+</resources>
