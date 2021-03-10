@@ -29,5 +29,5 @@ By developing this project, we can achieve the objective below
 * php
 
 ## PHP
-- put the foodtiger folder to your xampp/hotdocs 
+- put the <a href="https://github.com/YeongCC/Foodtiger_Mobile_App/tree/main/foodtiger">foodtiger folder</a>  to your xampp/hotdocs 
 - import sql into localhost
