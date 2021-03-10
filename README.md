@@ -28,3 +28,6 @@ By developing this project, we can achieve the objective below
 * Java
 * php
 
+##PHP
+->put the foodtiger file to your xampp/hotdocs 
+->import sql into localhost
